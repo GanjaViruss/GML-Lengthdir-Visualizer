@@ -4,7 +4,8 @@
 
 **by [GanjaViruss](https://github.com/GanjaViruss) & Claude Opus 4.8 & Sonnet 4.6**
 
-🔗 **[Live tool](https://ganjaviruss.github.io/GML-Lengthdir-Visualizer/)** · part of [GML Tools](https://github.com/GanjaViruss/GML-Tools)
+🔗 **[Live tool](https://ganjaviruss.github.io/GML-Lengthdir-Visualizer/)** 
+Part of [GML Tools](https://github.com/GanjaViruss/GML-Tools)
 
 ---
 
