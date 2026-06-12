@@ -730,6 +730,7 @@
   $('dupBtn').addEventListener('click', duplicateActive);
   $('undoBtn').addEventListener('click', undo);
   $('clearBtn').addEventListener('click',()=>{ pushHistory(); points=[]; nextColor=0; active=0; syncUI(); draw(); });
+  $('resetOriginBtn').addEventListener('click',()=>{ pushHistory(); originWorld={x:0,y:0}; saveState(); draw(); });
   ['gridSnap','gridSize'].forEach(id=>$(id).addEventListener('change',()=>{ saveState(); draw(); }));
 
   // canvas overlay buttons
